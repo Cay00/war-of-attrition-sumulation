@@ -31,11 +31,11 @@ Where v = 100 is the fixed value of the reward.
 
 The simulation runs multiple games (e.g., 1000) and generates the following visualizations:
 
-- **Payoff Difference Histogram**  
-  Displays the distribution of differences between Player 1 and Player 2's payoffs across games.
-
 - **Scatter Plot of Payoffs**  
   Shows each game's result as a point in a 2D plot: Player 1's payoff vs. Player 2's.
+  
+- **Payoff Difference Histogram**  
+  Displays the distribution of differences between Player 1 and Player 2's payoffs across games.
 
 - **Cumulative Payoffs and Advantage**  
   Tracks the total payoff for each player over time, along with their difference (Player 1 - Player 2).
@@ -83,13 +83,3 @@ The simulation runs multiple games (e.g., 1000) and generates the following visu
   ```
 
 The terminal will show total payoffs, and the program will display each plot one by one.
-
----
-
-## Project Files
-
-- war_of_attrition.py: The simulation and plotting code.
-
-- images/: Directory to store generated plots (optional).
-
-- README.md: Description and usage instructions.

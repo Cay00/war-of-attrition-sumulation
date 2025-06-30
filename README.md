@@ -43,6 +43,21 @@ The simulation runs multiple games (e.g., 1000) and generates the following visu
 - **KDE Heatmap of Wait Times**  
   A 2D density map showing how often players choose specific combinations of wait times.
 
+---
+
+## Example Visualizations
+
+### Scatter Plot of Payoffs
+![Scatter Plot of Payoffs](images/plot_payoffs_scatter.png)
+
+### Payoff Difference Histogram
+![Payoff Difference Histogram](images/plot_payoff_difference_distribution.png)
+
+### Cumulative Payoffs and Advantage
+![Cumulative Payoffs and Advantage](images/plot_cumulative_combined.png)
+
+### KDE Heatmap of Wait Times
+![KDE Heatmap of Wait Times](images/plot_wait_times_kde.png)
 
 ---
 
